@@ -1,6 +1,6 @@
 {
   "name": "surg",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "surge app config parser",
   "main": "index.js",
   "scripts": {
